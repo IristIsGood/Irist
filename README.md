@@ -36,4 +36,5 @@ Master of Science in Engineering (Big Data Specialist)
 Bachelor of Computer Science (Honours) 
 Oracle Certified Associate, Java SE 8 Programmer (Credential ID: OC2473045).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irist&layout=compact&theme=radical)
+### 📈 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IristIsGood&layout=compact&theme=dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
