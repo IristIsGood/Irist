@@ -34,7 +34,7 @@ Expertise in Enterprise-grade technologies including Java, Spring Boot, Hibernat
 
 Master of Science in Engineering (Big Data Specialist)
 Bachelor of Computer Science (Honours) 
-Oracle Certified Associate, Java SE 8 Programmer (Credential ID: OC2473045).
+Oracle Certified Associate, Java SE 8 Programmer (Credential ID: OC2473045). 
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IristIsGood&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IristIsGood&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
