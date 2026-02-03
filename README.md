@@ -37,4 +37,4 @@ Bachelor of Computer Science (Honours)
 Oracle Certified Associate, Java SE 8 Programmer (Credential ID: OC2473045).
 
 ### 📈 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IristIsGood&layout=compact&theme=dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
